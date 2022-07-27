@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771402147134",
+    "firebase_url": "https://waterwest-default-rtdb.firebaseio.com",
+    "project_id": "waterwest",
+    "storage_bucket": "waterwest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771402147134:android:4cde85b54bb45c81ca386f",
+        "android_client_info": {
+          "package_name": "com.example.waterwest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771402147134-g9u5k0ki1fmjltlecp636eercbu75i1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNO-m4pzYEKe_q-MDunPRhwzYYZF0_Ir8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771402147134-g9u5k0ki1fmjltlecp636eercbu75i1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
